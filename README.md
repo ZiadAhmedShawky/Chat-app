@@ -10,8 +10,8 @@ This project is a Real-Time Chat App built using Node.js, Express.js, and Socket
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/ZiadAhmedShawky/chat-app.git`
-2. Navigate to the project directory: `cd chat-app`
+1. Clone the repository: `git clone https://github.com/ZiadAhmedShawky/Chat-app.git`
+2. Navigate to the project directory: `cd Chat-app`
 3. Install dependencies: `npm install`
 
 ## Usage
